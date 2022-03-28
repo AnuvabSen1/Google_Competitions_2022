@@ -1,1 +1,1 @@
-# Google_Hashcode Certificate and rating
+# Google_Competitions_2022 Certificate and rating
